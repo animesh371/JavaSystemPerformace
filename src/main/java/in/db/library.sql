@@ -1,0 +1,1 @@
+CREATE TABLE students (id varchar(50), firstName varchar(50), lastName varchar(50), hostel varchar(50), PRIMARY KEY(id));
